@@ -156,7 +156,17 @@ namespace NintendoSpy
             { "SUBTRACT", vkConvert (Key.Subtract) },
             { "-", vkConvert (Key.Subtract) },
             { "DIVIDE", vkConvert (Key.Divide) },
-            { "/", vkConvert (Key.Divide) }
+            { "/", vkConvert (Key.Divide) },
+            { "NUM_0", vkConvert (Key.NumPad0) },
+            { "NUM_1", vkConvert (Key.NumPad1) },
+            { "NUM_2", vkConvert (Key.NumPad2) },
+            { "NUM_3", vkConvert (Key.NumPad3) },
+            { "NUM_4", vkConvert (Key.NumPad4) },
+            { "NUM_5", vkConvert (Key.NumPad5) },
+            { "NUM_6", vkConvert (Key.NumPad6) },
+            { "NUM_7", vkConvert (Key.NumPad7) },
+            { "NUM_8", vkConvert (Key.NumPad8) },
+            { "NUM_9", vkConvert (Key.NumPad9) }
         };
     }
 }
